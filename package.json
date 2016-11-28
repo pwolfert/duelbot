@@ -1,6 +1,6 @@
 {
   "name": "duelbot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "Patrick Wolfert <patrickrwolfert@gmail.com>",
   "description": "A robot that facilitates dueling between wizards",
@@ -11,9 +11,10 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "^2.17.2",
     "hubot-slack": "^4.2.1",
-    "hubot-wizards-duel": "^0.0.0"
+    "hubot-wizards-duel": "0.0.x"
   },
   "engines": {
     "node": "0.10.x"
-  }
+  },
+  "devDependencies": {}
 }
